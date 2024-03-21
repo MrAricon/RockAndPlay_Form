@@ -28,4 +28,4 @@ Antes de ejecutar este programa, asegúrate de tener lo siguiente instalado y co
 - [Pol Miret](https://github.com/miripower)
 - [Adam ortiz](https://github.com/aadam-oc)
 - [Marc Gili]()
-- [Victor Cepeda]()
+- [Victor Cepeda](https://github.com/vicear)
