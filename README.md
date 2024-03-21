@@ -24,6 +24,8 @@ Antes de ejecutar este programa, asegúrate de tener lo siguiente instalado y co
 - Abre el proyecto en tu IDE de Java preferido.
 ## Autores
 
-- [@MrAricon](https://github.com/MrAricon)
-- [@miripower](https://github.com/miripower)
-
+- [Pau Cano](https://github.com/MrAricon)
+- [Pol Miret](https://github.com/miripower)
+- [Adam ortiz](https://github.com/aadam-oc)
+- [Marc Gili]()
+- [Victor Cepeda]()
